@@ -20,24 +20,19 @@ The focus of the exercise is to deliver the cleanest and clearest design that yo
 ----------------Abstract Solutions-------------------------
 -Classes Created in order as follows:
 * API Class:
-///////////////////////////////////////
- BaseApi : An abstract class for both client and server classes. Besides, it contains all the methods and objects needed
+BaseApi : An abstract class for both client and server classes. Besides, it contains all the methods and objects needed
 to be used in the other classes.
 ------------------------------------------------------------------------------------------------------
 * Player Class:
-/////////////////////////////////////////////////
-Player: A Serializable class that includes name, messageCount, message variables.
+ Player: A Serializable class that includes name, messageCount, message variables.
 ------------------------------------------------------------------------------------------------------
 * PlayerBuilder Class:
-  /////////////////////////////////////////////////
- PlayerBuilder: A builder used to initialize a new player.
+  PlayerBuilder: A builder used to initialize a new player.
 ------------------------------------------------------------------------------------------
 * Constants
-///////////////////////////////////////////////////////////////////////
 Constants: A class that includes contant values.
 ----------------------------------------------------------------------------------------
 * MsgtransportApplication
-////////////////////////////////////////////////////////////////////////////////////
 MsgtransportApplication: A launch point of the app that initializes both Server and Client instances.
 ------------------------------------------------------------------------------------------------------
 * How to run an APP
