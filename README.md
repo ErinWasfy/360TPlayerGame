@@ -14,7 +14,8 @@ Please provide a shell script to start the program.
 Everything what is not clearly specified is to be decided by developer. Everything what is specified is a hard requirement.
 Please focus on design and not on technology, the technology should be the simplest possible that is achieving the target.
 The focus of the exercise is to deliver the cleanest and clearest design that you can achieve (and the system has to be functional).
-********************************* Abstract Solutions**************************************************************
+------------------------------------------------------------------------------------------
+Abstract Solutions
 ------------------------------------------------------------------
 -Classes Created in order as follows:
 -----------------------------------------------------------------------------------
