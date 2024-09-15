@@ -15,8 +15,9 @@ Everything what is not clearly specified is to be decided by developer. Everythi
 Please focus on design and not on technology, the technology should be the simplest possible that is achieving the target.
 The focus of the exercise is to deliver the cleanest and clearest design that you can achieve (and the system has to be functional).
 ********************************* Abstract Solutions**************************************************************
-
+------------------------------------------------------------------
 -Classes Created in order as follows:
+........................................................
 * API Class:
 BaseApi : An abstract class for both client and server classes. Besides, it contains all the methods and objects needed
 to be used in the other classes.
