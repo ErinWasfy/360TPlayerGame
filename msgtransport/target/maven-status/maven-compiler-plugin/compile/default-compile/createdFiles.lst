@@ -1,0 +1,7 @@
+com\demo\msgtransport\api\Server.class
+com\demo\msgtransport\playerscope\PlayerBuilder.class
+com\demo\msgtransport\MsgtransportApplication.class
+com\demo\msgtransport\api\BaseApi.class
+com\demo\msgtransport\util\Constants.class
+com\demo\msgtransport\api\Client.class
+com\demo\msgtransport\playerscope\Player.class
